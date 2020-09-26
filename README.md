@@ -1,10 +1,10 @@
-<img src="assets/name_call.png" alt="Gmail" width=20% align=right>
+<img src="assets/name_call.png" alt="Gmail" width=30% align=right>
 
 # Assalamu Alaykum
 
 I am Muhammad Ragib Hasin, a Muslim from Bangladesh 🇧🇩, an undergrad student of EEE in Rajshahi University of Engineering and Technology at this moment.
 
-My passion is Quran, coding, calligraphy and languages (programming and human both) 😊.
+My passion is Quran, coding, calligraphy, electronics and languages (programming and human both) 😊.
 
 Bangla is my native tongue, and I am fairly fluent in English. At this moment I am learning Arabic.
 
